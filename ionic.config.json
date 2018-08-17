@@ -1,0 +1,8 @@
+{
+  "name": "ionic-siri-shortcuts",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d1361ede"
+}
